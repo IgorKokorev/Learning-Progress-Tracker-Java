@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="delegatedBuild" value="false" />
+        <option name="distributionType" value="WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/Learning Progress Tracker (Java)/task" />
+            <option value="$PROJECT_DIR$/Learning Progress Tracker (Java)/task/build/classes/java" />
+            <option value="$PROJECT_DIR$/Learning Progress Tracker (Java)/task/build/generated/sources/annotationProcessor/java" />
+            <option value="$PROJECT_DIR$/Learning Progress Tracker (Java)/task/build/generated/sources/headers/java" />
+            <option value="$PROJECT_DIR$/Learning Progress Tracker (Java)/task/build/reports/tests" />
+            <option value="$PROJECT_DIR$/Learning Progress Tracker (Java)/task/build/test-results" />
+            <option value="$PROJECT_DIR$/Learning Progress Tracker (Java)/task/build/tmp" />
+            <option value="$PROJECT_DIR$/Topics/LinkedList vs. ArrayList/Fast for ArrayList" />
+            <option value="$PROJECT_DIR$/Topics/LinkedList vs. ArrayList/Remove the same" />
+            <option value="$PROJECT_DIR$/Topics/LinkedList vs. ArrayList/The big merge" />
+            <option value="$PROJECT_DIR$/Topics/LinkedList vs. ArrayList/The fair exchange" />
+            <option value="$PROJECT_DIR$/Topics/LinkedList vs. ArrayList/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Runtime type checking/File equality" />
+            <option value="$PROJECT_DIR$/Topics/Runtime type checking/Pattern matching in practice" />
+            <option value="$PROJECT_DIR$/Topics/Runtime type checking/Sort out the classes" />
+            <option value="$PROJECT_DIR$/Topics/Runtime type checking/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Runtime type checking/Three classes and two objects" />
+            <option value="$PROJECT_DIR$/Topics/Stack/Match methods" />
+            <option value="$PROJECT_DIR$/Topics/Stack/Methods" />
+            <option value="$PROJECT_DIR$/Topics/Stack/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Stack/Which brackets are balanced" />
+            <option value="$PROJECT_DIR$/Topics/Test lifecycle annotations/Correct order" />
+            <option value="$PROJECT_DIR$/Topics/Test lifecycle annotations/Good reasons" />
+            <option value="$PROJECT_DIR$/Topics/Test lifecycle annotations/Test fixture" />
+            <option value="$PROJECT_DIR$/Topics/Test lifecycle annotations/Theory" />
+            <option value="$PROJECT_DIR$/Topics/The Map interface/Counting words" />
+            <option value="$PROJECT_DIR$/Topics/The Map interface/Creating a map" />
+            <option value="$PROJECT_DIR$/Topics/The Map interface/Displaying pairs" />
+            <option value="$PROJECT_DIR$/Topics/The Map interface/Getting submaps" />
+            <option value="$PROJECT_DIR$/Topics/The Map interface/Sherlock Holmes and removing of characters" />
+            <option value="$PROJECT_DIR$/Topics/The Map interface/Theory" />
+            <option value="$PROJECT_DIR$/Topics/hashCode() and equals() in Collections/Duplicate elements in HashSet" />
+            <option value="$PROJECT_DIR$/Topics/hashCode() and equals() in Collections/Theory" />
+            <option value="$PROJECT_DIR$/util" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
